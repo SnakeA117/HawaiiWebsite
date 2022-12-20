@@ -59,3 +59,19 @@
     width: 30px;
 }
 
+.satya{
+    padding-bottom: 45px !important;
+}
+
+.phil{
+    padding-bottom: 14px !important;
+}
+
+
+.brad{
+    padding-bottom: 20px !important;
+}
+
+#description{
+    resize: none;
+}
